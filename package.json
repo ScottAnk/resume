@@ -1,0 +1,22 @@
+{
+  "name": "scott-ankiewicz-resume",
+  "version": "1.0.0",
+  "description": "an npm example based on a resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "your-command-here": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SEIR-Boston/npm-resume-ScottAnk.git"
+  },
+  "author": "scott ankiewicz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SEIR-Boston/npm-resume-ScottAnk/issues"
+  },
+  "homepage": "https://github.com/SEIR-Boston/npm-resume-ScottAnk#readme"
+}

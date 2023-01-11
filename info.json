@@ -1,0 +1,21 @@
+{
+    "name": "Scott Ankiewicz",
+    "website": "https://github.com/ScottAnk",
+    "linkedin": "https://www.linkedin.com/in/scott-ankiewicz/",
+    "github": "ScottAnk",
+    "email": "scottfa.a@gmail.com",
+    "resume": "https://github.com/ScottAnk",
+    "proficientTechnologies": [
+        "Javascript",
+        "Node",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Flask"
+    ],
+    "otherSkills": [
+        "45s",
+        "Photography",
+        "Galaxy Truckers"
+    ]
+}
